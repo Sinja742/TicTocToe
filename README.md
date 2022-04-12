@@ -29,7 +29,7 @@ Bei Linux Geräten kann es zu einzelnen Abweichungen kommen.
 6.	Viel Spaß beim losspielen
 
 ## Quellcode anzeigen
-1.	GitHub Projekt öffnen Link einfügen zu GitHub
+1.	GitHub Projekt öffnen [TicTacToe](https://github.com/Sinja742/TicTocToe)
 2.	Über GitHub das Projekt kopieren
 3.	Das Projekt mit einer Bash clonen
 4.	Projekt in beliebiger IDE öffnen
